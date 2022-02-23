@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short discourse concerning the reading His Majesties late declaration in the churches set forth by the Right Reverend Father in God Herbert Lord Bishop of Hereford.</title>
+            <author>Croft, Herbert, 1603-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35031</idno>
+            <idno type="STC">Wing C6976</idno>
+            <idno type="STC">ESTC R31313</idno>
+            <idno type="EEBO-CITATION">11887338</idno>
+            <idno type="OCLC">ocm 11887338</idno>
+            <idno type="VID">50389</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35031)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50389)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1000:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short discourse concerning the reading His Majesties late declaration in the churches set forth by the Right Reverend Father in God Herbert Lord Bishop of Hereford.</title>
+                  <author>Croft, Herbert, 1603-1691.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Charles Harper and are to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Bishops --  Temporal power.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50389:1" rendition="simple:additions"/>
+            <pb facs="tcp:50389:1" rendition="simple:additions"/>
+            <p>A SHORT DISCOURSE Concerning the READING His Majeſties Late
+DECLARATION IN THE CHURCHES.</p>
+            <p>Set forth by the Right Reverend Father in GOD HERBERT Lord
+Biſhop of HEREFORD.</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Charles Harper,</hi> and are to
+be ſold by <hi>Randal Taylor</hi> near <hi>Stationers-Hall.</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:50389:2"/>
+            <pb n="3" facs="tcp:50389:2"/>
+            <head>A SHORT ACCOUNT Concerning the READING His Majeſties
+Declaration IN THE CHURCHES.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen the Command for Reading the Kings De<g ref="char:EOLhyphen"/>claration came down
+firſt, accompanied with the Petition of my Lord Archbiſhop of
+<hi>Canterbury,</hi> and ſeveral other Biſhops, humbly <pb n="4" facs="tcp:50389:3"/>
+praying to be excuſed from the Publiſhing thoſe Declarations,
+I diſputed with my ſelf ſo long, that I grew into a perfect Agony at
+laſt, and could take no Reſt all that Night. For two great Evils ap<g ref="char:EOLhyphen"/>peared
+before me, both contrary one to the other, and yet an abſo<g ref="char:EOLhyphen"/>lute neceſſity
+of my falling into one of them, either Diſobedience to the Kings Commands, or
+a Separation and Schiſm from my Metropolitan and other worthy Biſhops,
+whoſe Judgments I truly reverenced in moſt things, and whoſe Integrity in
+all things. This made that Night very diſmal to me, till at length, the day
+coming on, I got up and began to conſider things with leſs troubled
+Thoughts, and more calmly and ſeriouſly to weigh the <pb n="5" facs="tcp:50389:3"/>
+whole Matter. And the firſt thing that repreſented it ſelf
+unto me, as an Anchor to fix and hold faſt my Soul, and compoſe my
+Conſcience, was that ſaying, <hi>Submit your ſelves to every ordinance of
+man for the Lords ſake.</hi> 1 Pet. ii. 13. and again <hi>verſ.</hi> 17.
+<hi>Fear God, honour the King.</hi> This was ſaid by St. <hi>Peter,</hi> who,
+we believe, was guided by the Holy Ghoſt, and therefore we take it as the
+ex<g ref="char:EOLhyphen"/>preſs Command of God, and ought to obſerve it in every thing that is not
+flatly contrary to the Word of God, or, at leaſt, moſt evidently deduced
+from the Word of God, ſo that every common underſtand<g ref="char:EOLhyphen"/>ing muſt needs
+ſee it. Now the King expreſly commanding his De<g ref="char:EOLhyphen"/>claration to be Read in all
+Churches, without requiring him that Reads <pb n="6" facs="tcp:50389:4"/>
+it to declare either his Conſent, Aſſent, Allowing or Liking
+of it, I would gladly know how any man can ſhew me that to do this is
+con<g ref="char:EOLhyphen"/>trary to Gods Holy Word. If you ſay, that this Declaration contains a
+Diſpenſing Power contrary to the Laws of the Land, as is declared in the
+Parliament 1662. and 1672. Let it be ſo. Is it therefore contra<g ref="char:EOLhyphen"/>ry to the
+Word of God? Shew it me. If the King would vouchſafe to ask my Judgment, I
+would hum<g ref="char:EOLhyphen"/>bly and earneſtly beſeech him not to uſe his Diſpenſing
+Power in that high manner. And I farther call God to Witneſs that I would
+readi<g ref="char:EOLhyphen"/>ly and cheerfully lay down my life to Compoſe the miſerable Breaches
+that are in theſe Nations on this ac<g ref="char:EOLhyphen"/>count. But if after all, the King
+<pb n="7" facs="tcp:50389:4"/>
+tells me, he hath this Diſpenſing Power inherent in his
+Majeſty by Right, and will uſe it whether I will or nill; What can I poor
+wretch do? Or what can all my Brethren, the Biſhops, lawfully do, but
+ſubmit unto his Majeſties Will and have patience? But, as a Paper lately
+come forth ſaith, In Reading this His Majeſties Declaration in the Houſe
+of God, I do thereby declare my Conſent unto it: for I ought to Read nothing
+there but what I do approve of. Where doth he find this ſo expreſt in the
+Word of God? Or from what Text doth it neceſſarily and evi<g ref="char:EOLhyphen"/>dently follow?
+Can this be as clear<g ref="char:EOLhyphen"/>ly deduced from thence, or is it as plainly expreſt as
+that on the con<g ref="char:EOLhyphen"/>trary ſide, that I am to ſubmit to <pb n="8" facs="tcp:50389:5"/>
+every Ordinance of man: This is the ſaying I ſtick cloſe to,
+and require him to ſhew me out of the Word of God, that to read any thing in
+the Houſe of God, is declaring my Conſent unto it: and therefore his
+affirmation without ſome ſuch proof from Scripture ſignifies nothing.
+Nay, to ſet Scripture aſide, and to diſcourſe of matters by common
+un<g ref="char:EOLhyphen"/>derſtanding: If I ſhould read unto the people in the Church a Paper
+declaring that the King of <hi>France</hi> doth Perſecute ſeveral
+Proteſtants, and deprive them of their Eſtates, doth my Reading this Paper
+any way declare my Conſent to his Perſecution? So, ſhould I read a Paper
+in the Church declaring the Kings Toleration of Sectaries, doth it any way
+declare my Conſent un<g ref="char:EOLhyphen"/>to <pb n="9" facs="tcp:50389:5"/>
+it? No certainly. This Argu<g ref="char:EOLhyphen"/>ment is very frivolous and vain. But
+you ask me, why do I Read this in the Church? and I anſwer, becauſe the
+King Commands it, and I know nothing in Scripture that forbids it, and
+therefore I am bound to obey it. But that Paper farther asks, if the King
+command a Popiſh Homily for Tranſubſtanti<g ref="char:EOLhyphen"/>ation to be Read in the Church,
+would I read it? No certainly, unleſs I read it ſo as to confute it, and
+ſhew the abſurdity of it. The Caſe is very different: this is a Do<g ref="char:EOLhyphen"/>ctrine
+I am neceſſarily to inſtruct the people in, and to ſhew them ei<g ref="char:EOLhyphen"/>ther
+the Truth or Falſity of it. And the Caſe is the ſame in all Doctrines
+taught in the Houſe of God. But in Reading the Kings <pb n="10" facs="tcp:50389:6"/>
+Declaration, there is no Doctrine Taught, only matter of Fact
+de<g ref="char:EOLhyphen"/>clared. But you will ſay, that was known before, and ſure there muſt
+be ſome other intention in requi<g ref="char:EOLhyphen"/>ring me to Read it. 'Tis true, per<g ref="char:EOLhyphen"/>chance it
+is to try my Obedience. And our Enemies having ſome gueſs by our late not
+giving thanks for that part of His Majeſties De<g ref="char:EOLhyphen"/>claration, which was to
+maintain the Church of <hi>England,</hi> becauſe Li<g ref="char:EOLhyphen"/>berty for Diſſenters
+was then alſo granted, that we will likewiſe re<g ref="char:EOLhyphen"/>fuſe the Reading of the
+Declarati<g ref="char:EOLhyphen"/>on for the ſame Reaſon, and there<g ref="char:EOLhyphen"/>by diſpleaſe the King, they
+there<g ref="char:EOLhyphen"/>fore perſuade His Majeſty to re<g ref="char:EOLhyphen"/>quire it of us. But for my own part I
+was then as urgent for our giving of Thanks, as a neceſſary
+<pb n="11" facs="tcp:50389:6"/>
+and grateful Duty; which, had we then performed, it would probably
+have prevented this Command of Reading it: which is likely to have a very ſad
+Conſequence, and I heartily lament it, but know not how to remedy it. Yet on
+this oc<g ref="char:EOLhyphen"/>caſion I beg leave of my Brethren to tell them my whole Senſe of
+this Matter. When the Kings Ma<g ref="char:EOLhyphen"/>jeſty firſt of all declared his
+Reſo<g ref="char:EOLhyphen"/>lution to maintain the Church of <hi>England</hi> in the clear
+Profeſſion of its Doctrine, with its Rights and Diſ<g ref="char:EOLhyphen"/>cipline, this was
+ſuch unexpected and ſurprizing News, that I ſtood long amazed at it: and
+when at length I had Compoſed my Mind and ſettled my ſelf in full belief
+of it, I did then alſo in all humble gratitude reſolve to comply and
+<pb n="12" facs="tcp:50389:7"/>
+ſerve His Majeſty in every thing that I could with a ſafe
+Conſcience perform, and thereby preſerve His Majeſties moſt favourable
+intenti<g ref="char:EOLhyphen"/>on and kindneſs towards us. And for ſo good an end as the free
+en<g ref="char:EOLhyphen"/>joyment of our Religion, and the True Worſhip of God to be pub<g ref="char:EOLhyphen"/>lickly
+continued and defended, I was ready both then to give Thanks, and now to Read
+(in both which I ſee no apparent evil) and to perform ſuch other things as
+ſhall be propoſed, which ſhall appear unto me as harmleſs as I take
+them to be. Yea I confeſs I ſhould yet go farther, and in doubt<g ref="char:EOLhyphen"/>ful Caſes
+beg leave of God (as <hi>Naaman</hi> the <hi>Syrian</hi> did of
+<hi>Eliſha,</hi> that when he bowed down in the Houſe of <hi>Rimmon,</hi>
+with the King <pb n="13" facs="tcp:50389:7"/>
+leaning on his Hand, the Lord would pardon his ſervant in this
+thing: ſo) that he would graciouſly pardon me in complying with His
+Majeſty in ſome things, wherein there might be ſome ſhadow, though no
+real ſubſtance of Of<g ref="char:EOLhyphen"/>fence: and I ſhould never doubt of Gods merciful
+Pardon in it, ſeeing I did it out of pure Obedi<g ref="char:EOLhyphen"/>ence to my King, upon Gods
+Com<g ref="char:EOLhyphen"/>mand, and to ſo good an end, as the preſerving of Truth and Peace among
+us. Which if we loſe on this occaſion, they will have much to anſwer for,
+who are the Authors of it. Yet I verily be<g ref="char:EOLhyphen"/>lieve, and durſt lay down my life
+for the Truth of it, that my Bre<g ref="char:EOLhyphen"/>thren who refuſe the diſperſing of
+theſe Declarations, are very far <pb n="14" facs="tcp:50389:8"/>
+from having any evil intention in it; but will as readily Obey the
+King as my ſelf, in what is as agreeable to their Conſciences, as theſe
+things are to mine. And had I had the good fortune to have been amongſt them
+at their Con<g ref="char:EOLhyphen"/>ſultation, I ſhould not have doubt<g ref="char:EOLhyphen"/>ed of good ſucceſs in
+perſuading them to this buſineſs: which, al<g ref="char:EOLhyphen"/>though it comes now too late
+for this; yet by the Grace of God it may prevent ſome future evil ac<g ref="char:EOLhyphen"/>cidents.
+However I reſolved to publiſh it, to give as much ſatiſ<g ref="char:EOLhyphen"/>faction to the
+World as I can up<g ref="char:EOLhyphen"/>on what reaſon I diſſent from my Brethren, who, I am
+confident, aim at the ſame thing, though we go clean contrary ways unto it.
+And I moſt humbly implore His <pb n="15" facs="tcp:50389:8"/>
+Gracious Majeſty to believe ſo of them, and not to give way to
+Paſſi<g ref="char:EOLhyphen"/>on, or to hearken unto thoſe who would exaſperate him againſt
+them: for 'tis impoſſible a True Son of the Church of <hi>England</hi>
+ſhould have any Diſloyal thoughts in his Heart, his Principles com<g ref="char:EOLhyphen"/>manding
+him unto entire Obedi<g ref="char:EOLhyphen"/>ence, either Active or Paſſive, without any
+Equivocation, or Men<g ref="char:EOLhyphen"/>tal Reſervation in any Caſe what<g ref="char:EOLhyphen"/>ſoever. And
+therefore a true ge<g ref="char:EOLhyphen"/>nerous Heart cannot but be kind and merciful to ſuch
+ſubmiſſive Subjects, according to that, <hi>Parce<g ref="char:EOLhyphen"/>re ſubjectis &amp;
+debellare ſuperbos.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
